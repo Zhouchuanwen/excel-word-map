@@ -6,9 +6,9 @@ Excel is widely used by people, and here is tool for users to view excel data in
 
 The goals for this repository are:
 
-1.Generate a word cloud map picture.
-2.Find the words used frequently in excel.
-3.Help to build a whole picture of excel sentences.
+- 1.Generate a word cloud map picture.
+- 2.Find the words used frequently in excel.
+- 3.Help to build a whole picture of excel sentences.
 
 
 ### Install
